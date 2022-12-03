@@ -1,11 +1,11 @@
-# dataModeling
-# Project: Modeling and Querying three datasets to understand crime scenarios in city of Chicago using PostgreSQL in Python.
+## dataModeling
+### Project: Modeling and Querying three datasets to understand crime scenarios in city of Chicago using PostgreSQL in Python.
 
-# Project Overview
+### Project Overview
 The project aims to understand the crime scenarios in the city of Chicago, USA by analyzing public data 
 available on Chicago Data Portal with the help of PostgreSQL and Python.
 
-# Project Structure
+### Project Structure
 1. Understanding three publicly available datasets on Chicago Data Portal.
 2. Uploading the downloaded files to notebook including specific columns and some transformations by Pandas Dataframe.
 3. Making an ERD Diagram for database tables to be used to design the database.
